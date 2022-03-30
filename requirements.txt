@@ -3,5 +3,5 @@ scikit-image==0.18.0
 tqdm==4.57.0
 numpy==1.21.1
 pillow==8.1.1
-fastapi
+fastapi==0.70.0
 uvicorn[standard]
